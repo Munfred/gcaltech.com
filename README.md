@@ -9,3 +9,5 @@ Some references I found useful:
 
 https://ironboundsoftware.com/blog/2018/02/25/daily-email-list-python-mailchimp/
 https://developers.google.com/calendar/
+
+Huge thanks to [Will Graf](https://github.com/willgraf) for fixing the code after Caltech updated it's website and broke everything in February 2019. He taught me how to use `.env` files to not commit my secrets.
